@@ -8,6 +8,6 @@
 animalContainer.insertAdjacentHTML('beforeend', htmlString);
 ```
 ###### 3. Il comando fa ritornare la risposta come txt.
-###### 4. Ajax permette di modificare i dati che vengono esposti in tempo reale senza aggiornare la pagina
-######    pertanto può essere comodo in siti che prevedono domande e risposte veloci.
+###### 4. <pre>Ajax permette di modificare i dati che vengono esposti in tempo reale senza aggiornare la pagina
+######   pertanto può essere comodo in siti che prevedono domande e risposte veloci.</pre>
 
