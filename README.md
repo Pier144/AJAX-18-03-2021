@@ -6,5 +6,5 @@
 ###### 2. Il testo viene inserito alla fine con il comando 
 ```Javascript
 animalContainer.insertAdjacentHTML('beforeend', htmlString);
-
+test
 ```
