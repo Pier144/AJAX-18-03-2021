@@ -4,7 +4,7 @@
 
 ###### 1. Il metodo  `XMLHttpRequest.open()` serve a definire il se mandiamo o riceviamo dati, e da quale link
 ###### 2. Il testo viene inserito alla fine con il comando 
-```Javascript
+```javascript
 animalContainer.insertAdjacentHTML('beforeend', htmlString);
 test
 ```
